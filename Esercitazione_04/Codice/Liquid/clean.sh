@@ -1,0 +1,11 @@
+rm -rf *gofr*
+rm -rf *gave*
+rm -rf ../../Risultati/Liquid/ave_epot*
+rm -rf ../../Risultati/Liquid/ave_pres*
+rm -rf ../../Risultati/Liquid/ave_etot*
+rm -rf ../../Risultati/Liquid/ave_ekin*
+rm -rf frames/*.xyz
+rm -rf seed.out
+rm -rf config.final
+rm -rf ../../Risultati/Liquid/output_restart.dat
+rm -rf ../../Risultati/Liquid/ave_temp*

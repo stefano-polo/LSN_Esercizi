@@ -1,0 +1,11 @@
+rm -rf *gofr*
+rm -rf *gave*
+rm -rf ../../Risultati/Solid/ave_epot*
+rm -rf ../../Risultati/Solid/ave_pres*
+rm -rf ../../Risultati/Solid/ave_etot*
+rm -rf ../../Risultati/Solid/ave_ekin*
+rm -rf frames/*.xyz
+rm -rf seed.out
+rm -rf config.final
+rm -rf ../../Risultati/Solid/output_restart.dat
+rm -rf ../../Risultati/Solid/ave_temp*
